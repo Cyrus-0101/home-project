@@ -1,0 +1,190 @@
+{
+  message: '\x1B[31mpath is not defined - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:53:53:5353'
+}
+{
+  message: '\x1B[31mpath is not defined - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:53:54:5354'
+}
+{
+  message: '\x1B[31m__dirname is not defined - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: '\x1B[31m__dirname is not defined - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: "\x1B[31mENOENT: no such file or directory, stat '/home/toxic254/Desktop/code/node/interview-proj/client/build/index.html' - / - GET - ::1\x1B[39m",
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: "\x1B[31mENOENT: no such file or directory, stat '/home/toxic254/Desktop/code/node/interview-proj/client/build/index.html' - /favicon.ico - GET - ::1\x1B[39m",
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:33:5933'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:00:56:056'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:00:56:056'
+}
+{
+  message: '\x1B[31mNot Found - /api/v1/auth\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:47:24:4724'
+}
+{
+  message: '\x1B[31mNot Found - /api/v1/auth - /api/v1/auth - POST - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:47:24:4724'
+}
+{
+  message: '\x1B[31mbcrypt is not defined - /api/v1/auth/login - POST - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:48:00:480'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:32:3132'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:32:3132'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:33:3133'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:33:3133'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:34:3134'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:34:3134'
+}
+{
+  message: '\x1B[31mNot Found - /dashboard\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:33:50:3350'
+}
+{
+  message: '\x1B[31mNot Found - /dashboard - /dashboard - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:33:50:3350'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:39:3539'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:39:3539'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:42:3542'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:42:3542'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:59:3559'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:59:3559'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:36:02:362'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:36:02:362'
+}
+{
+  message: '\x1B[31mNot Found - /me/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:37:17:3717'
+}
+{
+  message: '\x1B[31mNot Found - /me/ - /me/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:37:17:3717'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:40:4040'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:40:4040'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:44:4044'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:44:4044'
+}
+{
+  message: '\x1B[31mNot allowed by CORS - /api/v1/auth/login - OPTIONS - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:42:27:4227'
+}

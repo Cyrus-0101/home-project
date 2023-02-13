@@ -1,0 +1,40 @@
+{
+  "name": "interview-proj",
+  "version": "0.0.1",
+  "description": "A project for Home LLC Interview",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "cd client && npm run build && cd ../ && node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cyrus-0101/home-project.git"
+  },
+  "author": "Cyrus Ndirangu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyrus-0101/home-project/issues"
+  },
+  "homepage": "https://github.com/Cyrus-0101/home-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.7.0",
+    "helmet": "^6.0.1",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.1",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.1",
+    "winston": "^3.8.2",
+    "xss-clean": "^0.1.1"
+  }
+}

@@ -1,0 +1,3142 @@
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:06:536'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:06:536'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:33:5333'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:33:5333'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:34:5334'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:53:34:5334'
+}
+{
+  message: '\x1B[31mpath is not defined - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:53:53:5353'
+}
+{
+  message: '\x1B[35m::1 GET / 500 - - 15.614 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:53:53:5353'
+}
+{
+  message: '\x1B[31mpath is not defined - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:53:54:5354'
+}
+{
+  message: '\x1B[35m::1 GET /favicon.ico 500 - - 3.055 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:53:54:5354'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:10:5410'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:10:5410'
+}
+{
+  message: '\x1B[31m__dirname is not defined - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: '\x1B[35m::1 GET / 500 - - 18.874 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: '\x1B[31m__dirname is not defined - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: '\x1B[35m::1 GET /favicon.ico 500 - - 5.829 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:54:13:5413'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:40:5440'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:40:5440'
+}
+{
+  message: "\x1B[31mENOENT: no such file or directory, stat '/home/toxic254/Desktop/code/node/interview-proj/client/build/index.html' - / - GET - ::1\x1B[39m",
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: '\x1B[35m::1 GET / 500 258 - 15.006 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: "\x1B[31mENOENT: no such file or directory, stat '/home/toxic254/Desktop/code/node/interview-proj/client/build/index.html' - /favicon.ico - GET - ::1\x1B[39m",
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: '\x1B[35m::1 GET /favicon.ico 500 258 - 2.966 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:54:43:5443'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:58:5458'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:54:58:5458'
+}
+{
+  message: '\x1B[35m::1 GET / 200 452 - 9.624 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:05:555'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 200 452 - 3.931 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:05:555'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 200 452 - 3.649 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:05:555'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 452 - 2.417 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:05:555'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 6.840 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:05:555'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:55:31:5531'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:55:31:5531'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 13.086 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:56:5556'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 2.998 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:56:5556'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 3.887 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:56:5556'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 2.322 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:56:5556'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.397 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:55:56:5556'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 1.403 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:00:560'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:56:41:5641'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:56:41:5641'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 14.486 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:47:5647'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 2.454 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:47:5647'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 5.697 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:47:5647'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.549 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:47:5647'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.751 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:56:47:5647'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:57:03:573'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:57:03:573'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 9.438 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:05:575'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 1.956 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:05:575'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 1.896 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:05:575'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.389 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:05:575'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.605 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:05:575'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:57:20:5720'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:57:20:5720'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 7.135 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:21:5721'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 200 - - 11.614 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:21:5721'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 200 - - 14.420 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:21:5721'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 - - 2.346 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:22:5722'
+}
+{
+  message: '\x1B[35m::1 GET /assets/react-35ef61ed.svg 200 - - 3.242 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:22:5722'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.927 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:57:22:5722'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 6.557 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 3.322 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 3.070 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.563 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[35m::1 GET /assets/react-35ef61ed.svg 304 - - 1.357 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.243 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:04:594'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:29:5929'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:29:5929'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 42.230 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:32:5932'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 17:59:33:5933'
+}
+{
+  message: '\x1B[35m::1 GET /favicon.ico 404 - - 13.263 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:33:5933'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:39:5939'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:39:5939'
+}
+{
+  message: '\x1B[35m::1 GET / 200 452 - 25.800 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:41:5941'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 200 452 - 9.566 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:41:5941'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 200 452 - 10.410 ms\x1B[39m\n' +
+    '\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:41:5941'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 452 - 2.488 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:41:5941'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.723 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 17:59:42:5942'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:57:5957'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 17:59:57:5957'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:00:56:056'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:00:56:056'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 18.670 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:00:56:056'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:01:03:13'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:01:03:13'
+}
+{
+  message: '\x1B[35m::1 GET / 200 452 - 15.000 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:05:15'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 200 - - 16.821 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:05:15'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 200 - - 12.058 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:05:15'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 - - 2.757 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:06:16'
+}
+{
+  message: '\x1B[35m::1 GET /assets/react-35ef61ed.svg 304 - - 2.023 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:06:16'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.214 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:01:06:16'
+}
+{
+  message: '\x1B[32mChecking the API status: Everything is OK\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:03:39:339'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/status 200 54 - 6.102 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:03:39:339'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:14:614'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:14:614'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:21:621'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:22:622'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:46:646'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:06:46:646'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:07:28:728'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:07:28:728'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:08:36:836'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:08:36:836'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:09:00:90'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:09:01:91'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:09:16:916'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:09:16:916'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:12:22:1222'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:12:22:1222'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:13:02:132'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:13:02:132'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:13:09:139'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:13:09:139'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:14:07:147'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:14:08:148'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:15:30:1530'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:15:30:1530'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:13:1613'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:13:1613'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:34:1634'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:34:1634'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:55:1655'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:16:55:1655'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:17:34:1734'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:17:34:1734'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:18:22:1822'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:18:22:1822'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:18:49:1849'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:18:49:1849'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:19:17:1917'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:19:17:1917'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:19:31:1931'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:19:31:1931'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:04:244'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:04:244'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:20:2420'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:20:2420'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:22:2422'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:22:2422'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:43:2443'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:24:43:2443'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:25:43:2543'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:25:43:2543'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:26:14:2614'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:26:14:2614'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:27:45:2745'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:27:45:2745'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:05:285'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:05:285'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:45:2845'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:45:2845'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:48:2848'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:28:48:2848'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:29:01:291'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:29:01:291'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:31:02:312'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:31:02:312'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:33:33:3333'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:33:33:3333'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:33:55:3355'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:33:55:3355'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:35:04:354'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:35:04:354'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:36:15:3615'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:36:15:3615'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:36:50:3650'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:36:50:3650'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:37:33:3733'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:37:33:3733'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 22.153 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:40:3740'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 5.374 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:40:3740'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 6.972 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:40:3740'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.502 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:41:3741'
+}
+{
+  message: '\x1B[35m::1 GET /assets/react-35ef61ed.svg 304 - - 1.740 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:41:3741'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.272 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:37:41:3741'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:41:14:4114'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:41:14:4114'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:45:45:4545'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:45:45:4545'
+}
+{
+  message: '\x1B[32mUser created: Cyrus Ndirangu, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:46:42:4642'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/signup 201 235 - 565.456 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:46:42:4642'
+}
+{
+  message: '\x1B[31mNot Found - /api/v1/auth\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:47:24:4724'
+}
+{
+  message: '\x1B[31mNot Found - /api/v1/auth - /api/v1/auth - POST - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:47:24:4724'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth 404 - - 9.974 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:47:24:4724'
+}
+{
+  message: '\x1B[31mbcrypt is not defined - /api/v1/auth/login - POST - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-12 18:48:00:480'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 500 262 - 203.910 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:48:00:480'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:48:40:4840'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:48:40:4840'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:54:07:547'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 18:54:07:547'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 12.681 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-12 18:54:09:549'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:46:35:4635'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:46:35:4635'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:48:13:4813'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:48:13:4813'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:48:54:4854'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:48:54:4854'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:50:27:5027'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 19:50:27:5027'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:55:15:5515'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:55:15:5515'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:58:55:5855'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:58:55:5855'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:59:45:5945'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-12 22:59:45:5945'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 3.173 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:14:55:1455'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 401 48 - 803.461 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:14:56:1456'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.064 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:16:48:1648'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 401 48 - 6.136 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:16:48:1648'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.852 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:17:13:1713'
+}
+{
+  message: '\x1B[32mUser logged in: undefined undefined, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 09:17:13:1713'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 243 - 192.817 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 09:17:13:1713'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 10:35:45:3545'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 10:35:45:3545'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:04:16:416'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: localhost\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:04:16:416'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:04:47:447'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: [object Object]\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:04:47:447'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:05:08:58'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:05:08:58'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:05:58:558'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:05:58:558'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:08:54:854'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:08:54:854'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:10:26:1026'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:10:26:1026'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:11:13:1113'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:11:13:1113'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:14:57:1457'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 11:14:57:1457'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/signup 200 0 - 5.069 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:08:27:827'
+}
+{
+  message: '\x1B[32mUser created: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:08:27:827'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/signup 201 231 - 709.163 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:08:27:827'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:27:16:2716'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 166.811 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:27:16:2716'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:39:25:3925'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 12.929 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:39:25:3925'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:42:44:4244'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 39.750 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:42:44:4244'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 1.100 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:42:48:4248'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:42:48:4248'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 5.889 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:42:48:4248'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.593 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:43:17:4317'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:43:17:4317'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 125.778 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:43:17:4317'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.551 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:43:52:4352'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:43:52:4352'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 57.847 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:43:52:4352'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 1.443 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:44:01:441'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:44:01:441'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 6.956 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:44:01:441'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 4.261 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:44:36:4436'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:44:36:4436'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 85.975 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:44:36:4436'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.190 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:47:45:4745'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:47:45:4745'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 76.573 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:47:45:4745'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.954 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:48:50:4850'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:48:50:4850'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 60.593 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:48:50:4850'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:48:55:4855'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 13.435 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:48:55:4855'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 12:58:15:5815'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.399 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 12:58:15:5815'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:10:04:104'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 16.630 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:10:04:104'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:10:48:1048'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.797 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:10:48:1048'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:26:18:2618'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.440 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:26:18:2618'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:33:02:332'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.053 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:33:02:332'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:35:02:352'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 16.259 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:35:02:352'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:42:50:4250'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 20.946 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:42:50:4250'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:44:11:4411'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 10.393 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:44:11:4411'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:44:33:4433'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 5.420 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:44:33:4433'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:53:58:5358'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:53:58:5358'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:54:04:544'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 51.331 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:54:04:544'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:55:15:5515'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 12.508 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:55:15:5515'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:56:25:5625'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.652 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:56:25:5625'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 13:59:45:5945'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 23.832 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 13:59:45:5945'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:12:32:1232'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 10.494 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:12:32:1232'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:12:35:1235'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.201 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:12:35:1235'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:13:13:1313'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 22.318 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:13:13:1313'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:13:17:1317'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.771 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:13:17:1317'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:13:35:1335'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 22.239 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:13:35:1335'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:13:54:1354'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.901 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:13:54:1354'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:14:46:1446'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.974 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:14:46:1446'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:14:49:1449'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 27.372 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:14:49:1449'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.438 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:20:15:2015'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:20:15:2015'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 140.471 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:20:15:2015'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.494 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:22:51:2251'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:22:51:2251'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 57.621 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:22:51:2251'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.496 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:26:54:2654'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:26:54:2654'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 44.439 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:26:54:2654'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.848 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:30:32:3032'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:30:32:3032'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 47.939 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:30:32:3032'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:31:30:3130'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.066 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:31:30:3130'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:31:33:3133'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 4.103 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:31:33:3133'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 1.243 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:31:37:3137'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:31:37:3137'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 16.137 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:31:37:3137'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.591 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:32:32:3232'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:32:32:3232'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 45.483 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:32:32:3232'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:32:54:3254'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.433 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:32:54:3254'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:32:56:3256'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 13.413 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:32:56:3256'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:33:12:3312'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.321 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:33:12:3312'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.629 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:35:17:3517'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:35:17:3517'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 48.887 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:35:17:3517'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:35:20:3520'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 11.113 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:35:20:3520'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:52:13:5213'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 7.507 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:52:13:5213'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:52:21:5221'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.955 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:52:21:5221'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:53:03:533'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 39.927 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:53:03:533'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:54:17:5417'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.681 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:54:17:5417'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:54:23:5423'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 7.623 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:54:23:5423'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:55:01:551'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.959 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:55:01:551'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:55:07:557'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.693 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:55:07:557'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 14:59:54:5954'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 5.762 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 14:59:54:5954'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:00:00:00'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.921 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:00:00'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.455 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:05:05'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:00:05:05'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 5.048 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:05:05'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.180 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:07:07'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.055 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:31:031'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.983 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:00:42:042'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.007 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:01:18:118'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 4.638 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:01:31:131'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 204 - - 4.888 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:01:38:138'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.099 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:01:40:140'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.074 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:02:29:229'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.201 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:02:32:232'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.838 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:02:37:237'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 2.663 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:02:42:242'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.190 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:02:47:247'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.085 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:04:02:42'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.235 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:04:45:445'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.978 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:05:20:520'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.922 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:05:36:536'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.264 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:05:40:540'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.041 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:05:59:559'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.133 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:06:02:62'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.071 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:06:08:68'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.179 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:06:23:623'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.915 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:06:29:629'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:07:27:727'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:07:27:727'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 14.145 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:18:918'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 2.369 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:29:929'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.520 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:34:934'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.126 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:39:939'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.562 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:53:953'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:09:53:953'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 108.259 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:09:53:953'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:10:01:101'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 15.228 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:10:01:101'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:10:17:1017'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 10.235 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:10:17:1017'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:10:39:1039'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 7.541 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:10:39:1039'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:10:47:1047'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 13.529 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:10:47:1047'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:11:42:1142'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.091 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:11:42:1142'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:12:06:126'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.983 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:12:06:126'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:12:55:1255'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 17.575 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:12:55:1255'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:15:24:1524'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 13.154 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:15:24:1524'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:15:56:1556'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 32.882 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:15:56:1556'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:16:10:1610'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 12.984 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:16:10:1610'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:16:36:1636'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 11.656 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:16:36:1636'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:17:22:1722'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 10.452 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:22:1722'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:17:38:1738'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 6.781 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:38:1738'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.602 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:48:1748'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:17:48:1748'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 2.967 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:48:1748'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.231 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:49:1749'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.615 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:17:53:1753'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.244 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:05:185'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.307 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:19:1819'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.137 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:26:1826'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 2.662 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:36:1836'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.413 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:43:1843'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.366 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:55:1855'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:18:55:1855'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 70.350 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:18:55:1855'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.173 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:19:07:197'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:19:07:197'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 86.517 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:19:07:197'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:19:11:1911'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 13.262 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:19:11:1911'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:21:29:2129'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.898 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:21:29:2129'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:32:58:3258'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.384 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:32:58:3258'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:34:18:3418'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.937 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:34:18:3418'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:34:34:3434'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.558 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:34:34:3434'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:35:52:3552'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 15.213 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:35:52:3552'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:35:56:3556'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.299 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:35:56:3556'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:36:04:364'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.366 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:36:04:364'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.426 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:36:14:3614'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:36:14:3614'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 1.625 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:36:14:3614'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.745 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:36:15:3615'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.004 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:36:38:3638'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.572 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:37:17:3717'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.009 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:37:31:3731'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.021 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:37:53:3753'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.445 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:09:389'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:38:09:389'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 47.003 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:09:389'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:38:40:3840'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.138 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:40:3840'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:38:46:3846'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 31.963 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:46:3846'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.481 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:54:3854'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:38:54:3854'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 3.154 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:54:3854'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.825 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:38:55:3855'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.906 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:39:01:391'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.453 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:39:32:3932'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:39:32:3932'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 77.263 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:39:32:3932'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:39:53:3953'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.466 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:39:53:3953'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:40:52:4052'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 12.226 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:40:52:4052'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:41:52:4152'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.691 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:41:52:4152'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 1.064 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:41:55:4155'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:41:55:4155'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 4.923 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:41:55:4155'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.508 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:04:424'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 4.851 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:06:426'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.018 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:13:4213'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.424 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:23:4223'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:42:23:4223'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 48.209 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:23:4223'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 1.502 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:35:4235'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:42:35:4235'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 3.917 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:35:4235'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.430 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:40:4240'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:42:40:4240'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 46.723 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:42:40:4240'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.500 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:43:00:430'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 15:43:00:430'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 1.803 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:43:00:430'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.412 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 15:43:08:438'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.403 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 19:32:43:3243'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 19:32:43:3243'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 51.420 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 19:32:43:3243'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:07:35:735'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 9.727 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:07:35:735'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:08:15:815'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 8.776 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:08:15:815'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 0.579 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:12:20:1220'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:12:20:1220'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 44.326 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:12:20:1220'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:14:06:146'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 7.164 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:06:146'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:14:16:1416'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 5.624 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:16:1416'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:14:27:1427'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 5.237 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:27:1427'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.429 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:33:1433'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:14:33:1433'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 1.497 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:33:1433'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 1.261 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:14:34:1434'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.971 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:15:23:1523'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 1.022 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:18:50:1850'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:18:50:1850'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 56.311 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:18:50:1850'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:18:54:1854'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 25.189 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:18:54:1854'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:28:18:2818'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 4.952 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:28:18:2818'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 0.876 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:28:29:2829'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 20:28:29:2829'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 2.499 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:28:29:2829'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 401 26 - 0.901 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 20:28:35:2835'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:31:14:3114'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:31:14:3114'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:32:3132'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:32:3132'
+}
+{
+  message: '\x1B[35m::1 GET /api-docs/ 404 - - 15.690 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:32:3132'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:33:3133'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:33:3133'
+}
+{
+  message: '\x1B[35m::1 GET /api-docs/ 404 - - 10.283 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:33:3133'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:34:3134'
+}
+{
+  message: '\x1B[31mNot Found - /favicon.ico - /favicon.ico - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:31:34:3134'
+}
+{
+  message: '\x1B[35m::1 GET /favicon.ico 404 - - 4.059 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:34:3134'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 7.541 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:41:3141'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-d526a0c5.css 304 - - 1.810 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:41:3141'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-b8c46ea9.js 304 - - 1.191 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:41:3141'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.961 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:41:3141'
+}
+{
+  message: '\x1B[35m::1 GET /assets/react-35ef61ed.svg 304 - - 1.233 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:31:41:3141'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:33:01:331'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:33:01:331'
+}
+{
+  message: '\x1B[35m::1 GET / 200 624 - 10.176 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:07:337'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-6b3b04be.css 200 - - 16.094 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:08:338'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-2a52de08.js 200 - - 11.352 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:08:338'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 - - 2.332 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:08:338'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.761 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:08:338'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:33:42:3342'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 266.763 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:42:3342'
+}
+{
+  message: '\x1B[31mNot Found - /dashboard\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:33:50:3350'
+}
+{
+  message: '\x1B[31mNot Found - /dashboard - /dashboard - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:33:50:3350'
+}
+{
+  message: '\x1B[35m::1 GET /dashboard 404 - - 9.765 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:33:50:3350'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 5.463 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:34:02:342'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-6b3b04be.css 304 - - 4.893 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:34:02:342'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-2a52de08.js 304 - - 4.342 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:34:02:342'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.567 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:34:02:342'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 304 - - 1.146 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:34:02:342'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:34:49:3449'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:34:50:3450'
+}
+{
+  message: '\x1B[35m::1 GET /me 301 171 - 11.722 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:00:350'
+}
+{
+  message: '\x1B[35m::1 GET /me/ 200 624 - 4.409 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:00:350'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-2a52de08.js 301 215 - 4.254 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:00:350'
+}
+{
+  message: '\x1B[35m::1 GET /assets/index-6b3b04be.css 301 217 - 10.092 ms\x1B[39m\n' +
+    '\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:00:350'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 301 183 - 1.847 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:00:350'
+}
+{
+  message: '\x1B[35m::1 GET / 200 624 - 6.674 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:08:358'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:35:35:3535'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:35:35:3535'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:39:3539'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:39:3539'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 32.345 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:39:3539'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:42:3542'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:42:3542'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 11.455 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:42:3542'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:59:3559'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:35:59:3559'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 7.379 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:35:59:3559'
+}
+{
+  message: '\x1B[31mNot Found - /\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:36:02:362'
+}
+{
+  message: '\x1B[31mNot Found - / - / - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:36:02:362'
+}
+{
+  message: '\x1B[35m::1 GET / 404 - - 4.606 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:36:02:362'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:36:40:3640'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:36:40:3640'
+}
+{
+  message: '\x1B[35m::1 GET / 200 624 - 11.721 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:36:44:3644'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 13.229 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:36:49:3649'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 12.420 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:36:58:3658'
+}
+{
+  message: '\x1B[31mNot Found - /me/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:37:17:3717'
+}
+{
+  message: '\x1B[31mNot Found - /me/ - /me/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:37:17:3717'
+}
+{
+  message: '\x1B[35m::1 GET /me/ 404 - - 17.794 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:37:18:3718'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 1.480 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:37:28:3728'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:37:41:3741'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:37:41:3741'
+}
+{
+  message: '\x1B[35m::1 GET / 200 624 - 12.656 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:37:43:3743'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 5.739 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:38:00:380'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:38:16:3816'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:38:16:3816'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 10.123 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:38:25:3825'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 - - 6.677 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:38:48:3848'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 16.827 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:39:25:3925'
+}
+{
+  message: '\x1B[35m::1 GET /vite.svg 200 - - 2.969 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:39:25:3925'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:40:12:4012'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:40:12:4012'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:40:4040'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:40:4040'
+}
+{
+  message: '\x1B[35m::1 GET /api-docs/ 404 - - 18.322 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:40:40:4040'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:44:4044'
+}
+{
+  message: '\x1B[31mNot Found - /api-docs/ - /api-docs/ - GET - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:40:44:4044'
+}
+{
+  message: '\x1B[35m::1 GET /api-docs/ 404 - - 19.921 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:40:44:4044'
+}
+{
+  message: '\x1B[35m::1 GET / 304 - - 3.887 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:40:49:4049'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:42:02:422'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:42:02:422'
+}
+{
+  message: '\x1B[31mNot allowed by CORS - /api/v1/auth/login - OPTIONS - ::1\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2023-02-13 22:42:27:4227'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 500 1190 - 7.265 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:42:27:4227'
+}
+{
+  message: '\x1B[32mHome Interview app listening on port 3080!\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:42:55:4255'
+}
+{
+  message: '\x1B[32mMongoDB Connected to Local DB: home-interview-llc\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:42:55:4255'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/login 200 0 - 8.633 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:42:59:4259'
+}
+{
+  message: '\x1B[32mUser logged in: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:42:59:4259'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/login 200 231 - 115.116 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:42:59:4259'
+}
+{
+  message: '\x1B[32mUser refreshed token: Cyrus Grant, successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:43:14:4314'
+}
+{
+  message: '\x1B[35m::1 GET /api/v1/auth/refresh 200 231 - 14.939 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:43:14:4314'
+}
+{
+  message: '\x1B[35m::1 OPTIONS /api/v1/auth/logout 200 0 - 2.344 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:43:26:4326'
+}
+{
+  message: '\x1B[32mUser logged out successfully.\x1B[39m',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2023-02-13 22:43:26:4326'
+}
+{
+  message: '\x1B[35m::1 POST /api/v1/auth/logout 200 28 - 13.393 ms\x1B[39m\n\x1B[35m\x1B[39m',
+  level: '\x1B[35mhttp\x1B[39m',
+  timestamp: '2023-02-13 22:43:26:4326'
+}
